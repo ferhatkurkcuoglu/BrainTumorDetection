@@ -28,5 +28,5 @@ Bu projeyi yerel olarak kurmak ve çalıştırmak için aşağıdaki adımları 
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone [https://github.com/kullaniciadiniz/beyin-tumoru-tespit.git](https://github.com/kullaniciadiniz/beyin-tumoru-tespit.git)
+git clone https://github.com/ferhatkurkcuoglu/BrainTumorDetection.git
 cd beyin-tumoru-tespit
